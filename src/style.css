@@ -1,0 +1,13 @@
+.list-group a:hover{
+background-color: blue;
+color: white;
+cursor: pointer;
+}
+
+.footer{
+    height: 30px;
+    background-color: gray;
+    color: aliceblue;
+    
+    
+}
